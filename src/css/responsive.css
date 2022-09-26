@@ -1,0 +1,38 @@
+@media (max-width: 950px) {
+    :where(.top-circle, .bottom-circle) {
+        width: 800px;
+    }
+}
+
+@media (max-width: 775px) {
+    :where(.top-circle, .bottom-circle) {
+        width: 500px;
+    }
+
+    .top-circle {
+        top: -200px;
+        left: -250px;
+    }
+
+    .bottom-circle {
+        top: 300px;
+        right: -300px;
+    }
+}
+
+@media (max-width: 475px) {
+    :where(.top-circle, .bottom-circle) {
+        width: 400px;
+    }
+
+    .top-circle {
+        top: -150px;
+        left: -200px;
+    }
+
+    .bottom-circle {
+        top: 350px;
+        right: -250px;
+    }
+}
+

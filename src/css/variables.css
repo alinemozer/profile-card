@@ -1,0 +1,9 @@
+:root {
+    --font-family: "Kumbh Sans";
+}
+
+:root {
+    --bg-color: hsl(185, 75%, 39%);
+    --primary-font-color: hsl(229, 23%, 23%);
+    --secondary-font-color: hsl(227, 10%, 46%);
+}
