@@ -26,12 +26,12 @@
     }
 
     .top-circle {
-        top: -150px;
-        left: -200px;
+        top: -120px;
+        left: -230px;
     }
 
     .bottom-circle {
-        top: 350px;
+        top: 280px;
         right: -250px;
     }
 }
